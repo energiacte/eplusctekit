@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+1.0   2015-09-04
+----------------
+* Inicio del proyecto.
+* Publicación incial de los archivos climáticos.

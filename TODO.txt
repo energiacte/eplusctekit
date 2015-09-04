@@ -1,0 +1,10 @@
+== Planes ==
+
+Tareas previstas:
+
+- Archivo de materiales y soluciones constructivas según catálogo CTE.
+
+
+== Ideas ==
+
+- Generador del edificio de referencia

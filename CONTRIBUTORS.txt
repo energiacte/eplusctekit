@@ -1,0 +1,7 @@
+Este archivo incluye una lista de las personas que han hecho aportaciones significativas al proyecto:
+
+Inicio del proyecto y autores principales:
+  Rafael Villar Burke <pachi@ietcc.csic.es>
+  Daniel Jiménez González <danielj@ietcc.csic.es>
+
+Otros participantes:
