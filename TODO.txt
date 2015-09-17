@@ -2,9 +2,11 @@
 
 Tareas previstas:
 
-- Archivo de materiales y soluciones constructivas según catálogo CTE.
-
+- Archivo de soluciones constructivas según catálogo CTE.
+- Perfiles de uso CTE
+- Otros objetos EnergyPlus para modelización de edificios
 
 == Ideas ==
 
 - Generador del edificio de referencia
+- Medidas de generación de puentes térmicos
