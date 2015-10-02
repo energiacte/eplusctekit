@@ -2,10 +2,10 @@ LOCATION,D3_canarias,-,ESP,CTE_DB_HE,,28.33,-16.37,0,30.0
 DESIGN CONDITIONS,0
 TYPICAL/EXTREME PERIODS,0
 GROUND TEMPERATURES,1,2,,,,13.63,13.63,13.63,13.63,13.63,13.63,13.63,13.63,13.63,13.63,13.63,13.63
-HOLIDAYS/DAYLIGHT SAVINGS,No,25/3,28/10,0
+HOLIDAYS/DAYLIGHT SAVINGS,No,March/25,October/28,0
 COMMENTS 1, Spanish Weather (D3_canarias) for the Spanish Building Code (CTE DB-HE) checks. Created by Rafael Villar Burke for all CTE reference climates.
 COMMENTS 2, Ground temperatures generated using mean dry bulb air temperature.
-DATA PERIODS,1,1,Data,Monday,1/1,12/31
+DATA PERIODS,1,1,Data,Monday,Jan/1,Dec/31
 2007,1,1,1,60,*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?,5.6,0.2,68,101325,9999,9999,285,0,0,0,999999,999999,999999,9999,83,1.70,99,99,9999,99999,9,999999999,999,.999,999,99,999,999,99
 2007,1,1,2,60,*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?,5.5,0.2,68,101325,9999,9999,285,0,0,0,999999,999999,999999,9999,79,1.52,99,99,9999,99999,9,999999999,999,.999,999,99,999,999,99
 2007,1,1,3,60,*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?*?,5.3,0.2,69,101325,9999,9999,284,0,0,0,999999,999999,999999,9999,70,1.13,99,99,9999,99999,9,999999999,999,.999,999,99,999,999,99
