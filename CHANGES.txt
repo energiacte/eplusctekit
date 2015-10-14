@@ -1,6 +1,12 @@
 CHANGES
 =======
 
+1.1   2015-09-17
+----------------
+* Cambio de las absortividades solar y visible a 0.6 en lugar de 0.9/0.93
+  según Documento de Condiciones Técnicas para la evaluación de la eficiencia
+  energética (observación de G. Campos)
+
 1.0   2015-09-17
 ----------------
 * Inicio del proyecto.
