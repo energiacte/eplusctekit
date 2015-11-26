@@ -8,4 +8,4 @@ Este archivo contiene la conversión al formato IDF de EnergyPlus de la lista de
 materiales común, que habitualmente se distribuye con la Herramienta Unificada
 LIDER-CALENER.
 
-14-10-2015
+26-11-2015

@@ -1,6 +1,6 @@
-!- Materiales del Cat√°logo de Elementos Constructivos del CTE
+!- Materiales del Cat·logo de Elementos Constructivos del CTE
 !- para uso con EnergyPlus (proyecto EPlusCTEKit).
-!- Generado el 14-10-2015
+!- Generado el 26-11-2015
 
 MATERIAL,                 
     Basalto [2700 < d < 3000],    !- Name
@@ -25,7 +25,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Piedra p√≥mez natural [d < 400],    !- Name
+    Piedra pÛmez natural [d < 400],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.12,                     !- Conductivity
@@ -91,7 +91,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Asper√≥n [1900 < d < 2500],    !- Name
+    AsperÛn [1900 < d < 2500],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.8,                      !- Conductivity
@@ -102,7 +102,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Asper√≥n [1300 < d < 1900],    !- Name
+    AsperÛn [1300 < d < 1900],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.9,                      !- Conductivity
@@ -179,7 +179,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Gneis o P√≥rfido [2300 < d < 2900],    !- Name
+    Gneis o PÛrfido [2300 < d < 2900],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     3.5,                      !- Conductivity
@@ -201,7 +201,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    M√°rmol [2600 < d < 2800],    !- Name
+    M·rmol [2600 < d < 2800],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     3.5,                      !- Conductivity
@@ -311,7 +311,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Esta√±o,                   !- Name
+    EstaÒo,                   !- Name
     Smooth,                   !- Roughness
     0.02,                     !- Thickness
     66.6,                     !- Conductivity
@@ -333,7 +333,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hierro de fundici√≥n,      !- Name
+    Hierro de fundiciÛn,      !- Name
     Smooth,                   !- Roughness
     0.02,                     !- Thickness
     50.0,                     !- Conductivity
@@ -344,7 +344,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Lat√≥n,                    !- Name
+    LatÛn,                    !- Name
     Smooth,                   !- Roughness
     0.02,                     !- Thickness
     120.0,                    !- Conductivity
@@ -355,7 +355,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    N√≠quel,                   !- Name
+    NÌquel,                   !- Name
     Smooth,                   !- Roughness
     0.02,                     !- Thickness
     90.7,                     !- Conductivity
@@ -454,7 +454,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Con√≠fera muy pesada [d > 610],    !- Name
+    ConÌfera muy pesada [d > 610],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.23,                     !- Conductivity
@@ -465,7 +465,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Con√≠fera pesada [520 < d < 610],    !- Name
+    ConÌfera pesada [520 < d < 610],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.18,                     !- Conductivity
@@ -476,7 +476,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Con√≠fera de peso medio [435 < d < 520],    !- Name
+    ConÌfera de peso medio [435 < d < 520],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.15,                     !- Conductivity
@@ -487,7 +487,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Con√≠fera ligera [d < 435],    !- Name
+    ConÌfera ligera [d < 435],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.13,                     !- Conductivity
@@ -509,7 +509,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero contrachapado o paneles de madera s√≥lida (SWP) o maderas chapadas laminares (LVL) [700 < d < 900],    !- Name
+    Tablero contrachapado o paneles de madera sÛlida (SWP) o maderas chapadas laminares (LVL) [700 < d < 900],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.24,                     !- Conductivity
@@ -520,7 +520,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero contrachapado o paneles de madera s√≥lida (SWP) o maderas chapadas laminares (LVL) [600 < d < 700],    !- Name
+    Tablero contrachapado o paneles de madera sÛlida (SWP) o maderas chapadas laminares (LVL) [600 < d < 700],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.21,                     !- Conductivity
@@ -531,7 +531,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero contrachapado o paneles de madera s√≥lida (SWP) o maderas chapadas laminares (LVL) [500 < d < 600],    !- Name
+    Tablero contrachapado o paneles de madera sÛlida (SWP) o maderas chapadas laminares (LVL) [500 < d < 600],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.17,                     !- Conductivity
@@ -542,7 +542,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero contrachapado o paneles de madera s√≥lida (SWP) o maderas chapadas laminares (LVL) [450 < d < 500],    !- Name
+    Tablero contrachapado o paneles de madera sÛlida (SWP) o maderas chapadas laminares (LVL) [450 < d < 500],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.15,                     !- Conductivity
@@ -553,7 +553,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero contrachapado o paneles de madera s√≥lida (SWP) o maderas chapadas laminares (LVL) [350 < d < 450],    !- Name
+    Tablero contrachapado o paneles de madera sÛlida (SWP) o maderas chapadas laminares (LVL) [350 < d < 450],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.13,                     !- Conductivity
@@ -564,7 +564,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero contrachapado o paneles de madera s√≥lida (SWP) o maderas chapadas laminares (LVL) [250 < d < 350],    !- Name
+    Tablero contrachapado o paneles de madera sÛlida (SWP) o maderas chapadas laminares (LVL) [250 < d < 350],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.11,                     !- Conductivity
@@ -575,7 +575,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero contrachapado o paneles de madera s√≥lida (SWP) o maderas chapadas laminares (LVL) [d < 250],    !- Name
+    Tablero contrachapado o paneles de madera sÛlida (SWP) o maderas chapadas laminares (LVL) [d < 250],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.09,                     !- Conductivity
@@ -586,7 +586,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero de part√≠culas [640 < d < 820],    !- Name
+    Tablero de partÌculas [640 < d < 820],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.18,                     !- Conductivity
@@ -597,7 +597,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero de part√≠culas [450 < d < 640],    !- Name
+    Tablero de partÌculas [450 < d < 640],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.15,                     !- Conductivity
@@ -608,7 +608,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero de part√≠culas [270 < d < 450],    !- Name
+    Tablero de partÌculas [270 < d < 450],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.13,                     !- Conductivity
@@ -619,7 +619,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero de part√≠culas [180 < d < 270],    !- Name
+    Tablero de partÌculas [180 < d < 270],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.1,                      !- Conductivity
@@ -630,7 +630,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Tablero de part√≠culas con cemento [d < 1200],    !- Name
+    Tablero de partÌculas con cemento [d < 1200],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.23,                     !- Conductivity
@@ -641,7 +641,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Paneles de fibras con conglomerante hidr√°ulico [450 < d < 550],    !- Name
+    Paneles de fibras con conglomerante hidr·ulico [450 < d < 550],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.15,                     !- Conductivity
@@ -652,7 +652,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Paneles de fibras con conglomerante hidr√°ulico [350 < d < 450],    !- Name
+    Paneles de fibras con conglomerante hidr·ulico [350 < d < 450],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.12,                     !- Conductivity
@@ -663,7 +663,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Paneles de fibras con conglomerante hidr√°ulico [250 < d < 350],    !- Name
+    Paneles de fibras con conglomerante hidr·ulico [250 < d < 350],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.1,                      !- Conductivity
@@ -707,7 +707,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Corcho Expandido con resinas sint√©ticas [150 < d < 250],    !- Name
+    Corcho Expandido con resinas sintÈticas [150 < d < 250],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.055,                    !- Conductivity
@@ -718,7 +718,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Corcho Expandido con resinas sint√©ticas [100 < d < 150],    !- Name
+    Corcho Expandido con resinas sintÈticas [100 < d < 150],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.049,                    !- Conductivity
@@ -740,7 +740,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n armado [d > 2500],    !- Name
+    HormigÛn armado [d > 2500],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     2.5,                      !- Conductivity
@@ -751,7 +751,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n armado [2300 < d < 2500],    !- Name
+    HormigÛn armado [2300 < d < 2500],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     2.3,                      !- Conductivity
@@ -762,7 +762,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n en masa [2300 < d < 2600],    !- Name
+    HormigÛn en masa [2300 < d < 2600],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     2.0,                      !- Conductivity
@@ -773,7 +773,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n en masa [2000 < d < 2300],    !- Name
+    HormigÛn en masa [2000 < d < 2300],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.65,                     !- Conductivity
@@ -784,7 +784,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con √°ridos ligeros [1800 < d < 2000],    !- Name
+    HormigÛn con ·ridos ligeros [1800 < d < 2000],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.35,                     !- Conductivity
@@ -795,7 +795,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con √°ridos ligeros [1600 < d < 1800],    !- Name
+    HormigÛn con ·ridos ligeros [1600 < d < 1800],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.15,                     !- Conductivity
@@ -806,7 +806,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida sin otros √°ridos [d 700],    !- Name
+    HormigÛn con arcilla expandida sin otros ·ridos [d 700],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.22,                     !- Conductivity
@@ -817,7 +817,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida sin otros √°ridos [d 600],    !- Name
+    HormigÛn con arcilla expandida sin otros ·ridos [d 600],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.19,                     !- Conductivity
@@ -828,7 +828,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida sin otros √°ridos [d 500],    !- Name
+    HormigÛn con arcilla expandida sin otros ·ridos [d 500],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.16,                     !- Conductivity
@@ -839,7 +839,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida sin otros √°ridos [d 400],    !- Name
+    HormigÛn con arcilla expandida sin otros ·ridos [d 400],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.13,                     !- Conductivity
@@ -850,7 +850,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n convencional [d 2400],    !- Name
+    HormigÛn convencional [d 2400],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.9,                      !- Conductivity
@@ -861,7 +861,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n convencional [d 2300],    !- Name
+    HormigÛn convencional [d 2300],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.72,                     !- Conductivity
@@ -872,7 +872,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n convencional [d 2200],    !- Name
+    HormigÛn convencional [d 2200],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.57,                     !- Conductivity
@@ -883,7 +883,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n convencional [d 2100],    !- Name
+    HormigÛn convencional [d 2100],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.44,                     !- Conductivity
@@ -894,7 +894,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n convencional [d 2000],    !- Name
+    HormigÛn convencional [d 2000],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.32,                     !- Conductivity
@@ -905,7 +905,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n convencional [d 1900],    !- Name
+    HormigÛn convencional [d 1900],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.2,                      !- Conductivity
@@ -916,7 +916,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n convencional [d 1800],    !- Name
+    HormigÛn convencional [d 1800],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.12,                     !- Conductivity
@@ -927,7 +927,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n convencional [d 1700],    !- Name
+    HormigÛn convencional [d 1700],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.03,                     !- Conductivity
@@ -938,7 +938,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n convencional [d 1600],    !- Name
+    HormigÛn convencional [d 1600],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.97,                     !- Conductivity
@@ -949,7 +949,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 1700],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 1700],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.76,                     !- Conductivity
@@ -960,7 +960,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 1600],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 1600],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.68,                     !- Conductivity
@@ -971,7 +971,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 1500],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 1500],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.61,                     !- Conductivity
@@ -982,7 +982,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 1400],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 1400],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.55,                     !- Conductivity
@@ -993,7 +993,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 1300],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 1300],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.5,                      !- Conductivity
@@ -1004,7 +1004,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 1200],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 1200],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.44,                     !- Conductivity
@@ -1015,7 +1015,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 1100],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 1100],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.39,                     !- Conductivity
@@ -1026,7 +1026,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 1000],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 1000],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.35,                     !- Conductivity
@@ -1037,7 +1037,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 900],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 900],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.3,                      !- Conductivity
@@ -1048,7 +1048,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con arcilla expandida como √°rido principal [d 800],    !- Name
+    HormigÛn con arcilla expandida como ·rido principal [d 800],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.27,                     !- Conductivity
@@ -1059,7 +1059,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 2000],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 2000],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.5,                      !- Conductivity
@@ -1070,7 +1070,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 1800],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 1800],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.22,                     !- Conductivity
@@ -1081,7 +1081,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 1600],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 1600],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.59,                     !- Conductivity
@@ -1092,7 +1092,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 1500],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 1500],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.52,                     !- Conductivity
@@ -1103,7 +1103,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 1400],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 1400],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.46,                     !- Conductivity
@@ -1114,7 +1114,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 1300],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 1300],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.42,                     !- Conductivity
@@ -1125,7 +1125,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 1200],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 1200],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.37,                     !- Conductivity
@@ -1136,7 +1136,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 1100],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 1100],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.34,                     !- Conductivity
@@ -1147,7 +1147,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 1000],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 1000],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.3,                      !- Conductivity
@@ -1158,7 +1158,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 900],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 900],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.27,                     !- Conductivity
@@ -1169,7 +1169,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 800],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 800],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.65,                     !- Conductivity
@@ -1180,7 +1180,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 700],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 700],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.74,                     !- Conductivity
@@ -1191,7 +1191,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 600],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 600],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.83,                     !- Conductivity
@@ -1202,7 +1202,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n con otros √°ridos ligeros [d 500],    !- Name
+    HormigÛn con otros ·ridos ligeros [d 500],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.94,                     !- Conductivity
@@ -1213,7 +1213,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n celular curado en autoclave [d 1000],    !- Name
+    HormigÛn celular curado en autoclave [d 1000],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.29,                     !- Conductivity
@@ -1224,7 +1224,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n celular curado en autoclave [d 900],    !- Name
+    HormigÛn celular curado en autoclave [d 900],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.27,                     !- Conductivity
@@ -1235,7 +1235,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n celular curado en autoclave [d 800],    !- Name
+    HormigÛn celular curado en autoclave [d 800],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.23,                     !- Conductivity
@@ -1246,7 +1246,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n celular curado en autoclave [d 700],    !- Name
+    HormigÛn celular curado en autoclave [d 700],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.2,                      !- Conductivity
@@ -1257,7 +1257,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n celular curado en autoclave [d 600],    !- Name
+    HormigÛn celular curado en autoclave [d 600],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.18,                     !- Conductivity
@@ -1268,7 +1268,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n celular curado en autoclave [d 500],    !- Name
+    HormigÛn celular curado en autoclave [d 500],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.14,                     !- Conductivity
@@ -1279,7 +1279,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n celular curado en autoclave [d 400],    !- Name
+    HormigÛn celular curado en autoclave [d 400],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.12,                     !- Conductivity
@@ -1290,7 +1290,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Hormig√≥n celular curado en autoclave [d 300],    !- Name
+    HormigÛn celular curado en autoclave [d 300],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.09,                     !- Conductivity
@@ -1301,7 +1301,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Teja de hormig√≥n,         !- Name
+    Teja de hormigÛn,         !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.5,                      !- Conductivity
@@ -1312,7 +1312,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Mortero de cemento o cal para alba√±iler√≠a y para revoco o enlucido [d > 2000],    !- Name
+    Mortero de cemento o cal para albaÒilerÌa y para revoco o enlucido [d > 2000],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.8,                      !- Conductivity
@@ -1323,7 +1323,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Mortero de cemento o cal para alba√±iler√≠a y para revoco o enlucido [1800 < d < 2000],    !- Name
+    Mortero de cemento o cal para albaÒilerÌa y para revoco o enlucido [1800 < d < 2000],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.3,                      !- Conductivity
@@ -1334,7 +1334,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Mortero de cemento o cal para alba√±iler√≠a y para revoco o enlucido [1600 < d < 1800],    !- Name
+    Mortero de cemento o cal para albaÒilerÌa y para revoco o enlucido [1600 < d < 1800],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.0,                      !- Conductivity
@@ -1345,7 +1345,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Mortero de cemento o cal para alba√±iler√≠a y para revoco o enlucido [1450 < d < 1600],    !- Name
+    Mortero de cemento o cal para albaÒilerÌa y para revoco o enlucido [1450 < d < 1600],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.8,                      !- Conductivity
@@ -1356,7 +1356,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Mortero de cemento o cal para alba√±iler√≠a y para revoco o enlucido [1250 < d < 1450],    !- Name
+    Mortero de cemento o cal para albaÒilerÌa y para revoco o enlucido [1250 < d < 1450],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.7,                      !- Conductivity
@@ -1367,7 +1367,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Mortero de cemento o cal para alba√±iler√≠a y para revoco o enlucido [1000 < d < 1250],    !- Name
+    Mortero de cemento o cal para albaÒilerÌa y para revoco o enlucido [1000 < d < 1250],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.55,                     !- Conductivity
@@ -1378,7 +1378,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Mortero de cemento o cal para alba√±iler√≠a y para revoco o enlucido [750 < d < 1000],    !- Name
+    Mortero de cemento o cal para albaÒilerÌa y para revoco o enlucido [750 < d < 1000],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.4,                      !- Conductivity
@@ -1389,7 +1389,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Mortero de cemento o cal para alba√±iler√≠a y para revoco o enlucido [500 < d < 750],    !- Name
+    Mortero de cemento o cal para albaÒilerÌa y para revoco o enlucido [500 < d < 750],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.3,                      !- Conductivity
@@ -1400,7 +1400,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Mortero de √°ridos ligeros (vermiculita o perlita),    !- Name
+    Mortero de ·ridos ligeros (vermiculita o perlita),    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.41,                     !- Conductivity
@@ -1543,7 +1543,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Arcilla Expandida [√°rido suelto],    !- Name
+    Arcilla Expandida [·rido suelto],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.148,                    !- Conductivity
@@ -1609,7 +1609,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    XPS Expandido con di√≥xido de carbono CO2 [0.034 W/[mK]],    !- Name
+    XPS Expandido con diÛxido de carbono CO2 [0.034 W/[mK]],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.034,                    !- Conductivity
@@ -1620,7 +1620,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    XPS Expandido con di√≥xido de carbono CO2 [0.038 W/[mK]],    !- Name
+    XPS Expandido con diÛxido de carbono CO2 [0.038 W/[mK]],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.038,                    !- Conductivity
@@ -1631,7 +1631,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    XPS Expandido con di√≥xido de carbono CO2 [0.042 W/[mK]],    !- Name
+    XPS Expandido con diÛxido de carbono CO2 [0.042 W/[mK]],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.042,                    !- Conductivity
@@ -1741,7 +1741,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Acr√≠licos,                !- Name
+    AcrÌlicos,                !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.2,                      !- Conductivity
@@ -1763,7 +1763,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Lin√≥leo,                  !- Name
+    LinÛleo,                  !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.17,                     !- Conductivity
@@ -1917,7 +1917,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Resina fen√≥lica,          !- Name
+    Resina fenÛlica,          !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.3,                      !- Conductivity
@@ -1928,7 +1928,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Resina de poli√©ster no saturado (UP),    !- Name
+    Resina de poliÈster no saturado (UP),    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.19,                     !- Conductivity
@@ -1939,7 +1939,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Teja de pl√°stico,         !- Name
+    Teja de pl·stico,         !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.2,                      !- Conductivity
@@ -1994,7 +1994,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Caucho rigido (ebonita) s√≥lido,    !- Name
+    Caucho rigido (ebonita) sÛlido,    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.17,                     !- Conductivity
@@ -2005,7 +2005,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Etileno propileno dieno mon√≥mero (EPDM),    !- Name
+    Etileno propileno dieno monÛmero (EPDM),    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.25,                     !- Conductivity
@@ -2093,7 +2093,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Espuma elastom√©rica-flexible,    !- Name
+    Espuma elastomÈrica-flexible,    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.05,                     !- Conductivity
@@ -2104,7 +2104,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    S√≠lica gel (desecante),    !- Name
+    SÌlica gel (desecante),    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.13,                     !- Conductivity
@@ -2137,7 +2137,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Uretano o poliuretano (rotura de puente t√©rmico),    !- Name
+    Uretano o poliuretano (rotura de puente tÈrmico),    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.21,                     !- Conductivity
@@ -2170,7 +2170,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Bet√∫n puro,               !- Name
+    Bet˙n puro,               !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.17,                     !- Conductivity
@@ -2181,7 +2181,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Bet√∫n fieltro o l√°mina,    !- Name
+    Bet˙n fieltro o l·mina,    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     0.23,                     !- Conductivity
@@ -2225,7 +2225,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Azulejo cer√°mico,         !- Name
+    Azulejo cer·mico,         !- Name
     Smooth,                   !- Roughness
     0.02,                     !- Thickness
     1.3,                      !- Conductivity
@@ -2236,7 +2236,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Plaqueta o baldosa cer√°mica,    !- Name
+    Plaqueta o baldosa cer·mica,    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.0,                      !- Conductivity
@@ -2269,7 +2269,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Teja cer√°mica-porcelana,    !- Name
+    Teja cer·mica-porcelana,    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.3,                      !- Conductivity
@@ -2291,7 +2291,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Gres(s√≠lice) [2200 < d < 2590],    !- Name
+    Gres(sÌlice) [2200 < d < 2590],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     2.3,                      !- Conductivity
@@ -2302,7 +2302,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Gres calc√°reo [2000 < d < 2700],    !- Name
+    Gres calc·reo [2000 < d < 2700],    !- Name
     Rough,                    !- Roughness
     0.02,                     !- Thickness
     1.9,                      !- Conductivity
@@ -2313,7 +2313,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Vidrio Sodoc√°lcico (Vidrio flotado),    !- Name
+    Vidrio Sodoc·lcico (Vidrio flotado),    !- Name
     Smooth,                   !- Roughness
     0.02,                     !- Thickness
     1.0,                      !- Conductivity
@@ -2346,7 +2346,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de tabique cer√°mico de LH sencillo [40 mm < e < 60 mm],    !- Name
+    F·brica de tabique cer·mico de LH sencillo [40 mm < e < 60 mm],    !- Name
     Rough,                    !- Roughness
     0.05,                     !- Thickness
     0.556,                    !- Conductivity
@@ -2357,7 +2357,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de tabic√≥n cer√°mico de LH doble [60 mm < e < 90 mm],    !- Name
+    F·brica de tabicÛn cer·mico de LH doble [60 mm < e < 90 mm],    !- Name
     Rough,                    !- Roughness
     0.075,                    !- Thickness
     0.469,                    !- Conductivity
@@ -2368,7 +2368,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de tabic√≥n cer√°mico de LH triple [100 mm < e < 110 mm],    !- Name
+    F·brica de tabicÛn cer·mico de LH triple [100 mm < e < 110 mm],    !- Name
     Rough,                    !- Roughness
     0.105,                    !- Thickness
     0.456,                    !- Conductivity
@@ -2379,7 +2379,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de tabique cer√°mico de LH sencillo GF [40 mm < e < 60 mm],    !- Name
+    F·brica de tabique cer·mico de LH sencillo GF [40 mm < e < 60 mm],    !- Name
     Rough,                    !- Roughness
     0.05,                     !- Thickness
     0.278,                    !- Conductivity
@@ -2390,7 +2390,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de tabic√≥n cer√°mico de LH doble GF [60 mm < e < 90 mm],    !- Name
+    F·brica de tabicÛn cer·mico de LH doble GF [60 mm < e < 90 mm],    !- Name
     Rough,                    !- Roughness
     0.075,                    !- Thickness
     0.227,                    !- Conductivity
@@ -2401,7 +2401,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de tabic√≥n cer√°mico de LH triple GF [100 mm < e < 110 mm],    !- Name
+    F·brica de tabicÛn cer·mico de LH triple GF [100 mm < e < 110 mm],    !- Name
     Rough,                    !- Roughness
     0.105,                    !- Thickness
     0.219,                    !- Conductivity
@@ -2412,7 +2412,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo cer√°mico perforado de medio pie [40 mm <= G <= 60 mm],    !- Name
+    F·brica de ladrillo cer·mico perforado de medio pie [40 mm <= G <= 60 mm],    !- Name
     Rough,                    !- Roughness
     0.1225,                   !- Thickness
     0.68,                     !- Conductivity
@@ -2423,7 +2423,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo cer√°mico perforado de medio pie [60mm < G <= 80 mm],    !- Name
+    F·brica de ladrillo cer·mico perforado de medio pie [60mm < G <= 80 mm],    !- Name
     Rough,                    !- Roughness
     0.1225,                   !- Thickness
     0.583,                    !- Conductivity
@@ -2434,7 +2434,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo cer√°mico perforado de medio pie [80 mm < G <= 100 mm],    !- Name
+    F·brica de ladrillo cer·mico perforado de medio pie [80 mm < G <= 100 mm],    !- Name
     Rough,                    !- Roughness
     0.1225,                   !- Thickness
     0.533,                    !- Conductivity
@@ -2445,7 +2445,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo cer√°mico perforado de un pie [40 mm <= G <= 60 mm],    !- Name
+    F·brica de ladrillo cer·mico perforado de un pie [40 mm <= G <= 60 mm],    !- Name
     Rough,                    !- Roughness
     0.26,                     !- Thickness
     0.743,                    !- Conductivity
@@ -2456,7 +2456,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo cer√°mico perforado de un pie [60 mm < G <=80 mm],    !- Name
+    F·brica de ladrillo cer·mico perforado de un pie [60 mm < G <=80 mm],    !- Name
     Rough,                    !- Roughness
     0.26,                     !- Thickness
     0.634,                    !- Conductivity
@@ -2467,7 +2467,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo cer√°mico perforado de un pie [80 mm < G <= 100 mm],    !- Name
+    F·brica de ladrillo cer·mico perforado de un pie [80 mm < G <= 100 mm],    !- Name
     Rough,                    !- Roughness
     0.26,                     !- Thickness
     0.553,                    !- Conductivity
@@ -2478,7 +2478,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo cer√°mico macizo de medio pie [40 mm <= G <= 50 mm],    !- Name
+    F·brica de ladrillo cer·mico macizo de medio pie [40 mm <= G <= 50 mm],    !- Name
     Rough,                    !- Roughness
     0.1225,                   !- Thickness
     1.02,                     !- Conductivity
@@ -2489,7 +2489,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo cer√°mico macizo de un pie [40 mm <= G <= 50 mm],    !- Name
+    F·brica de ladrillo cer·mico macizo de un pie [40 mm <= G <= 50 mm],    !- Name
     Rough,                    !- Roughness
     0.26,                     !- Thickness
     1.529,                    !- Conductivity
@@ -2500,7 +2500,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo perforado de hormig√≥n (√°ridos densos),    !- Name
+    F·brica de ladrillo perforado de hormigÛn (·ridos densos),    !- Name
     Rough,                    !- Roughness
     0.12,                     !- Thickness
     1.091,                    !- Conductivity
@@ -2511,7 +2511,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo macizo de hormig√≥n,    !- Name
+    F·brica de ladrillo macizo de hormigÛn,    !- Name
     Rough,                    !- Roughness
     0.12,                     !- Thickness
     1.714,                    !- Conductivity
@@ -2522,7 +2522,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de ladrillo perforado de hormig√≥n (√°ridos ligeros),    !- Name
+    F·brica de ladrillo perforado de hormigÛn (·ridos ligeros),    !- Name
     Rough,                    !- Roughness
     0.1225,                   !- Thickness
     0.395,                    !- Conductivity
@@ -2533,7 +2533,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BC con mortero convencional [e 140 mm],    !- Name
+    F·brica de BC con mortero convencional [e 140 mm],    !- Name
     Rough,                    !- Roughness
     0.14,                     !- Thickness
     0.438,                    !- Conductivity
@@ -2544,7 +2544,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BC con mortero convencional [e 190 mm],    !- Name
+    F·brica de BC con mortero convencional [e 190 mm],    !- Name
     Rough,                    !- Roughness
     0.19,                     !- Thickness
     0.432,                    !- Conductivity
@@ -2555,7 +2555,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BC con mortero convencional [e 240 mm],    !- Name
+    F·brica de BC con mortero convencional [e 240 mm],    !- Name
     Rough,                    !- Roughness
     0.24,                     !- Thickness
     0.421,                    !- Conductivity
@@ -2566,7 +2566,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BC con mortero convencional [e 290 mm],    !- Name
+    F·brica de BC con mortero convencional [e 290 mm],    !- Name
     Rough,                    !- Roughness
     0.29,                     !- Thickness
     0.426,                    !- Conductivity
@@ -2577,7 +2577,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BC con mortero aislante [e 140 mm],    !- Name
+    F·brica de BC con mortero aislante [e 140 mm],    !- Name
     Rough,                    !- Roughness
     0.14,                     !- Thickness
     0.318,                    !- Conductivity
@@ -2588,7 +2588,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BC con mortero aislante [e 190 mm],    !- Name
+    F·brica de BC con mortero aislante [e 190 mm],    !- Name
     Rough,                    !- Roughness
     0.19,                     !- Thickness
     0.302,                    !- Conductivity
@@ -2599,7 +2599,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BC con mortero aislante [e 240 mm],    !- Name
+    F·brica de BC con mortero aislante [e 240 mm],    !- Name
     Rough,                    !- Roughness
     0.24,                     !- Thickness
     0.296,                    !- Conductivity
@@ -2610,7 +2610,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BC con mortero aislante [e 290 mm],    !- Name
+    F·brica de BC con mortero aislante [e 290 mm],    !- Name
     Rough,                    !- Roughness
     0.29,                     !- Thickness
     0.296,                    !- Conductivity
@@ -2621,7 +2621,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH hueco con √°ridos densos [e 50 mm],    !- Name
+    F·brica de BH hueco con ·ridos densos [e 50 mm],    !- Name
     Rough,                    !- Roughness
     0.05,                     !- Thickness
     1.0,                      !- Conductivity
@@ -2632,7 +2632,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH hueco con √°ridos densos [e 60 mm],    !- Name
+    F·brica de BH hueco con ·ridos densos [e 60 mm],    !- Name
     Rough,                    !- Roughness
     0.06,                     !- Thickness
     0.857,                    !- Conductivity
@@ -2643,7 +2643,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH hueco con √°ridos densos [e 80 mm],    !- Name
+    F·brica de BH hueco con ·ridos densos [e 80 mm],    !- Name
     Rough,                    !- Roughness
     0.08,                     !- Thickness
     0.8,                      !- Conductivity
@@ -2654,7 +2654,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH hueco con √°ridos densos [e 90 mm],    !- Name
+    F·brica de BH hueco con ·ridos densos [e 90 mm],    !- Name
     Rough,                    !- Roughness
     0.09,                     !- Thickness
     0.563,                    !- Conductivity
@@ -2665,7 +2665,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH hueco con √°ridos densos [e 110 mm],    !- Name
+    F·brica de BH hueco con ·ridos densos [e 110 mm],    !- Name
     Rough,                    !- Roughness
     0.11,                     !- Thickness
     0.647,                    !- Conductivity
@@ -2676,7 +2676,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH hueco con √°ridos densos [e 140 mm],    !- Name
+    F·brica de BH hueco con ·ridos densos [e 140 mm],    !- Name
     Rough,                    !- Roughness
     0.14,                     !- Thickness
     0.737,                    !- Conductivity
@@ -2687,7 +2687,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH hueco con √°ridos densos [e 190 mm],    !- Name
+    F·brica de BH hueco con ·ridos densos [e 190 mm],    !- Name
     Rough,                    !- Roughness
     0.19,                     !- Thickness
     0.864,                    !- Conductivity
@@ -2698,7 +2698,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH hueco con √°ridos densos [e 240 mm],    !- Name
+    F·brica de BH hueco con ·ridos densos [e 240 mm],    !- Name
     Rough,                    !- Roughness
     0.24,                     !- Thickness
     0.96,                     !- Conductivity
@@ -2709,7 +2709,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH hueco con √°ridos densos [e 290 mm],    !- Name
+    F·brica de BH hueco con ·ridos densos [e 290 mm],    !- Name
     Rough,                    !- Roughness
     0.29,                     !- Thickness
     1.115,                    !- Conductivity
@@ -2720,7 +2720,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH perforado con √°ridos ligeros [e 80 mm],    !- Name
+    F·brica de BH perforado con ·ridos ligeros [e 80 mm],    !- Name
     Rough,                    !- Roughness
     0.08,                     !- Thickness
     0.178,                    !- Conductivity
@@ -2731,7 +2731,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH perforado con √°ridos ligeros [e 90 mm],    !- Name
+    F·brica de BH perforado con ·ridos ligeros [e 90 mm],    !- Name
     Rough,                    !- Roughness
     0.09,                     !- Thickness
     0.173,                    !- Conductivity
@@ -2742,7 +2742,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH perforado con √°ridos ligeros [e 110 mm],    !- Name
+    F·brica de BH perforado con ·ridos ligeros [e 110 mm],    !- Name
     Rough,                    !- Roughness
     0.11,                     !- Thickness
     0.186,                    !- Conductivity
@@ -2753,7 +2753,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH perforado con √°ridos ligeros [e 140 mm],    !- Name
+    F·brica de BH perforado con ·ridos ligeros [e 140 mm],    !- Name
     Rough,                    !- Roughness
     0.14,                     !- Thickness
     0.206,                    !- Conductivity
@@ -2764,7 +2764,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH perforado con √°ridos ligeros [e 190 mm],    !- Name
+    F·brica de BH perforado con ·ridos ligeros [e 190 mm],    !- Name
     Rough,                    !- Roughness
     0.19,                     !- Thickness
     0.253,                    !- Conductivity
@@ -2775,7 +2775,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH perforado con √°ridos ligeros [e 240 mm],    !- Name
+    F·brica de BH perforado con ·ridos ligeros [e 240 mm],    !- Name
     Rough,                    !- Roughness
     0.24,                     !- Thickness
     0.289,                    !- Conductivity
@@ -2786,7 +2786,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH perforado con √°ridos ligeros [e 290 mm],    !- Name
+    F·brica de BH perforado con ·ridos ligeros [e 290 mm],    !- Name
     Rough,                    !- Roughness
     0.29,                     !- Thickness
     0.305,                    !- Conductivity
@@ -2797,7 +2797,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH perforado con √°ridos ligeros [e 290 mm] en muro de carga,    !- Name
+    F·brica de BH perforado con ·ridos ligeros [e 290 mm] en muro de carga,    !- Name
     Rough,                    !- Roughness
     0.29,                     !- Thickness
     0.326,                    !- Conductivity
@@ -2808,7 +2808,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH perforado con √°ridos ligeros [e 290 mm] en muro de carga con mortero aislante,    !- Name
+    F·brica de BH perforado con ·ridos ligeros [e 290 mm] en muro de carga con mortero aislante,    !- Name
     Rough,                    !- Roughness
     0.29,                     !- Thickness
     0.276,                    !- Conductivity
@@ -2819,7 +2819,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH macizo con √°ridos ligeros [e 140 mm],    !- Name
+    F·brica de BH macizo con ·ridos ligeros [e 140 mm],    !- Name
     Rough,                    !- Roughness
     0.14,                     !- Thickness
     0.175,                    !- Conductivity
@@ -2830,7 +2830,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH macizo con √°ridos ligeros [e 170 mm],    !- Name
+    F·brica de BH macizo con ·ridos ligeros [e 170 mm],    !- Name
     Rough,                    !- Roughness
     0.17,                     !- Thickness
     0.309,                    !- Conductivity
@@ -2841,7 +2841,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH macizo con √°ridos ligeros [e 240 mm],    !- Name
+    F·brica de BH macizo con ·ridos ligeros [e 240 mm],    !- Name
     Rough,                    !- Roughness
     0.24,                     !- Thickness
     0.264,                    !- Conductivity
@@ -2852,7 +2852,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH macizo con √°ridos ligeros [e 290 mm],    !- Name
+    F·brica de BH macizo con ·ridos ligeros [e 290 mm],    !- Name
     Rough,                    !- Roughness
     0.29,                     !- Thickness
     0.305,                    !- Conductivity
@@ -2863,7 +2863,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH macizo con √°ridos ligeros [e 290 mm] en muro de carga,    !- Name
+    F·brica de BH macizo con ·ridos ligeros [e 290 mm] en muro de carga,    !- Name
     Rough,                    !- Roughness
     0.29,                     !- Thickness
     0.46,                     !- Conductivity
@@ -2874,7 +2874,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de BH macizo con √°ridos ligeros [e 290 mm] en muro de carga con mortero aislante,    !- Name
+    F·brica de BH macizo con ·ridos ligeros [e 290 mm] en muro de carga con mortero aislante,    !- Name
     Rough,                    !- Roughness
     0.29,                     !- Thickness
     0.408,                    !- Conductivity
@@ -2885,7 +2885,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n [e 90 mm] con c√°mara simple,    !- Name
+    F·brica de bloque de picÛn [e 90 mm] con c·mara simple,    !- Name
     Rough,                    !- Roughness
     0.09,                     !- Thickness
     0.409,                    !- Conductivity
@@ -2896,7 +2896,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n [e 120 mm] con c√°mara doble,    !- Name
+    F·brica de bloque de picÛn [e 120 mm] con c·mara doble,    !- Name
     Rough,                    !- Roughness
     0.12,                     !- Thickness
     0.462,                    !- Conductivity
@@ -2907,7 +2907,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n [e 150 mm] con c√°mara doble,    !- Name
+    F·brica de bloque de picÛn [e 150 mm] con c·mara doble,    !- Name
     Rough,                    !- Roughness
     0.15,                     !- Thickness
     0.429,                    !- Conductivity
@@ -2918,7 +2918,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n [e 200 mm] con c√°mara doble,    !- Name
+    F·brica de bloque de picÛn [e 200 mm] con c·mara doble,    !- Name
     Rough,                    !- Roughness
     0.2,                      !- Thickness
     0.5,                      !- Conductivity
@@ -2929,7 +2929,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n [e 250 mm] con c√°mara doble,    !- Name
+    F·brica de bloque de picÛn [e 250 mm] con c·mara doble,    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     0.556,                    !- Conductivity
@@ -2940,7 +2940,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n [e 250 mm] con c√°mara triple,    !- Name
+    F·brica de bloque de picÛn [e 250 mm] con c·mara triple,    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     0.5,                      !- Conductivity
@@ -2951,7 +2951,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n aligerado [e 90 mm] con c√°mara simple,    !- Name
+    F·brica de bloque de picÛn aligerado [e 90 mm] con c·mara simple,    !- Name
     Rough,                    !- Roughness
     0.09,                     !- Thickness
     0.333,                    !- Conductivity
@@ -2962,7 +2962,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n aligerado [e 120 mm] con c√°mara doble,    !- Name
+    F·brica de bloque de picÛn aligerado [e 120 mm] con c·mara doble,    !- Name
     Rough,                    !- Roughness
     0.12,                     !- Thickness
     0.387,                    !- Conductivity
@@ -2973,7 +2973,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n aligerado [e 150 mm] con c√°mara doble,    !- Name
+    F·brica de bloque de picÛn aligerado [e 150 mm] con c·mara doble,    !- Name
     Rough,                    !- Roughness
     0.15,                     !- Thickness
     0.349,                    !- Conductivity
@@ -2984,7 +2984,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n aligerado [e 200 mm] con c√°mara doble,    !- Name
+    F·brica de bloque de picÛn aligerado [e 200 mm] con c·mara doble,    !- Name
     Rough,                    !- Roughness
     0.2,                      !- Thickness
     0.417,                    !- Conductivity
@@ -2995,7 +2995,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n aligerado [e 250 mm] con c√°mara doble,    !- Name
+    F·brica de bloque de picÛn aligerado [e 250 mm] con c·mara doble,    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     0.463,                    !- Conductivity
@@ -3006,7 +3006,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    F√°brica de bloque de pic√≥n aligerado [e 250 mm] con c√°mara triple,    !- Name
+    F·brica de bloque de picÛn aligerado [e 250 mm] con c·mara triple,    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     0.403,                    !- Conductivity
@@ -3017,7 +3017,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado cer√°mico [h 250 mm],    !- Name
+    FU entrevigado cer·mico [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     0.893,                    !- Conductivity
@@ -3028,7 +3028,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado cer√°mico [h 300 mm],    !- Name
+    FU entrevigado cer·mico [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     0.937,                    !- Conductivity
@@ -3039,7 +3039,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado cer√°mico [h 350 mm],    !- Name
+    FU entrevigado cer·mico [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.0,                      !- Conductivity
@@ -3050,7 +3050,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n [h 250 mm],    !- Name
+    FU entrevigado de hormigÛn [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.316,                    !- Conductivity
@@ -3061,7 +3061,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n [h 300 mm],    !- Name
+    FU entrevigado de hormigÛn [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     1.429,                    !- Conductivity
@@ -3072,7 +3072,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n [h 350 mm],    !- Name
+    FU entrevigado de hormigÛn [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.522,                    !- Conductivity
@@ -3083,7 +3083,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n con √°ridos ligeros [h 250 mm],    !- Name
+    FU entrevigado de hormigÛn con ·ridos ligeros [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.0,                      !- Conductivity
@@ -3094,7 +3094,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n con √°ridos ligeros [h 300 mm],    !- Name
+    FU entrevigado de hormigÛn con ·ridos ligeros [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     1.111,                    !- Conductivity
@@ -3105,7 +3105,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n con √°ridos ligeros [h 350 mm],    !- Name
+    FU entrevigado de hormigÛn con ·ridos ligeros [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.207,                    !- Conductivity
@@ -3116,7 +3116,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n con √°ridos ligeros [h 400 mm],    !- Name
+    FU entrevigado de hormigÛn con ·ridos ligeros [h 400 mm],    !- Name
     Rough,                    !- Roughness
     0.4,                      !- Thickness
     1.29,                     !- Conductivity
@@ -3127,7 +3127,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n [d < 1200] con √°ridos ligeros [h 250 mm],    !- Name
+    FU entrevigado de hormigÛn [d < 1200] con ·ridos ligeros [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.136,                    !- Conductivity
@@ -3138,7 +3138,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n [d < 1200] con √°ridos ligeros [h 300 mm],    !- Name
+    FU entrevigado de hormigÛn [d < 1200] con ·ridos ligeros [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     1.2,                      !- Conductivity
@@ -3149,7 +3149,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n [d < 1200] con √°ridos ligeros [h 350 mm],    !- Name
+    FU entrevigado de hormigÛn [d < 1200] con ·ridos ligeros [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.296,                    !- Conductivity
@@ -3160,7 +3160,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de hormig√≥n [d < 1200] con √°ridos ligeros [h 400 mm],    !- Name
+    FU entrevigado de hormigÛn [d < 1200] con ·ridos ligeros [h 400 mm],    !- Name
     Rough,                    !- Roughness
     0.4,                      !- Thickness
     1.429,                    !- Conductivity
@@ -3171,7 +3171,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de pic√≥n [h 300 mm],    !- Name
+    FU entrevigado de picÛn [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     0.882,                    !- Conductivity
@@ -3182,7 +3182,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado de pic√≥n [h 350 mm],    !- Name
+    FU entrevigado de picÛn [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     0.972,                    !- Conductivity
@@ -3292,7 +3292,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado cer√°mico [h 250 mm],    !- Name
+    FR entrevigado cer·mico [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.667,                    !- Conductivity
@@ -3303,7 +3303,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado cer√°mico [h 300 mm],    !- Name
+    FR entrevigado cer·mico [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     1.667,                    !- Conductivity
@@ -3314,7 +3314,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado cer√°mico [h 350 mm],    !- Name
+    FR entrevigado cer·mico [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.75,                     !- Conductivity
@@ -3325,7 +3325,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n [h 250 mm],    !- Name
+    FR entrevigado de hormigÛn [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.923,                    !- Conductivity
@@ -3336,7 +3336,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n [h 300 mm],    !- Name
+    FR entrevigado de hormigÛn [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     2.0,                      !- Conductivity
@@ -3347,7 +3347,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FRentrevigado de hormig√≥n [h 350 mm],    !- Name
+    FRentrevigado de hormigÛn [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.944,                    !- Conductivity
@@ -3358,7 +3358,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n [h 400 mm],    !- Name
+    FR entrevigado de hormigÛn [h 400 mm],    !- Name
     Rough,                    !- Roughness
     0.4,                      !- Thickness
     2.0,                      !- Conductivity
@@ -3369,7 +3369,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n [h 450 mm],    !- Name
+    FR entrevigado de hormigÛn [h 450 mm],    !- Name
     Rough,                    !- Roughness
     0.45,                     !- Thickness
     2.045,                    !- Conductivity
@@ -3380,7 +3380,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n √°ridos ligeros [h 250 mm],    !- Name
+    FR entrevigado de hormigÛn ·ridos ligeros [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.786,                    !- Conductivity
@@ -3391,7 +3391,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n √°ridos ligeros [h 300 mm],    !- Name
+    FR entrevigado de hormigÛn ·ridos ligeros [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     1.875,                    !- Conductivity
@@ -3402,7 +3402,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n √°ridos ligeros [h 350 mm],    !- Name
+    FR entrevigado de hormigÛn ·ridos ligeros [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.842,                    !- Conductivity
@@ -3413,7 +3413,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n √°ridos ligeros [h 400 mm],    !- Name
+    FR entrevigado de hormigÛn ·ridos ligeros [h 400 mm],    !- Name
     Rough,                    !- Roughness
     0.4,                      !- Thickness
     1.905,                    !- Conductivity
@@ -3424,7 +3424,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n √°ridos ligeros [h 450 mm],    !- Name
+    FR entrevigado de hormigÛn ·ridos ligeros [h 450 mm],    !- Name
     Rough,                    !- Roughness
     0.45,                     !- Thickness
     1.956,                    !- Conductivity
@@ -3435,7 +3435,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n [d < 1200] con √°ridos ligeros [h 250 mm],    !- Name
+    FR entrevigado de hormigÛn [d < 1200] con ·ridos ligeros [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.786,                    !- Conductivity
@@ -3446,7 +3446,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n [d < 1200] con √°ridos ligeros [h 300 mm],    !- Name
+    FR entrevigado de hormigÛn [d < 1200] con ·ridos ligeros [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     1.875,                    !- Conductivity
@@ -3457,7 +3457,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n [d < 1200] con √°ridos ligeros [h 350 mm],    !- Name
+    FR entrevigado de hormigÛn [d < 1200] con ·ridos ligeros [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.842,                    !- Conductivity
@@ -3468,7 +3468,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n [d < 1200] con √°ridos ligeros [h 400 mm],    !- Name
+    FR entrevigado de hormigÛn [d < 1200] con ·ridos ligeros [h 400 mm],    !- Name
     Rough,                    !- Roughness
     0.4,                      !- Thickness
     1.905,                    !- Conductivity
@@ -3479,7 +3479,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FR entrevigado de hormig√≥n [d < 1200] con √°ridos ligeros [h 450 mm],    !- Name
+    FR entrevigado de hormigÛn [d < 1200] con ·ridos ligeros [h 450 mm],    !- Name
     Rough,                    !- Roughness
     0.45,                     !- Thickness
     1.957,                    !- Conductivity
@@ -3688,7 +3688,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar sin capa de compresi√≥n [h 200 mm],    !- Name
+    Losa alveolar sin capa de compresiÛn [h 200 mm],    !- Name
     Rough,                    !- Roughness
     0.2,                      !- Thickness
     1.429,                    !- Conductivity
@@ -3699,7 +3699,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar sin capa de compresi√≥n [h 250 mm],    !- Name
+    Losa alveolar sin capa de compresiÛn [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.563,                    !- Conductivity
@@ -3710,7 +3710,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar sin capa de compresi√≥n [h 300 mm],    !- Name
+    Losa alveolar sin capa de compresiÛn [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     1.579,                    !- Conductivity
@@ -3721,7 +3721,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar sin capa de compresi√≥n [h 350 mm],    !- Name
+    Losa alveolar sin capa de compresiÛn [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.667,                    !- Conductivity
@@ -3732,7 +3732,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar sin capa de compresi√≥n [h 400 mm],    !- Name
+    Losa alveolar sin capa de compresiÛn [h 400 mm],    !- Name
     Rough,                    !- Roughness
     0.4,                      !- Thickness
     1.818,                    !- Conductivity
@@ -3743,7 +3743,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar sin capa de compresi√≥n [h 500 mm],    !- Name
+    Losa alveolar sin capa de compresiÛn [h 500 mm],    !- Name
     Rough,                    !- Roughness
     0.5,                      !- Thickness
     2.0,                      !- Conductivity
@@ -3754,7 +3754,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar con capa de compresi√≥n [h 200 mm],    !- Name
+    Losa alveolar con capa de compresiÛn [h 200 mm],    !- Name
     Rough,                    !- Roughness
     0.2,                      !- Thickness
     1.429,                    !- Conductivity
@@ -3765,7 +3765,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar con capa de compresi√≥n [h 250 mm],    !- Name
+    Losa alveolar con capa de compresiÛn [h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.563,                    !- Conductivity
@@ -3776,7 +3776,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar con capa de compresi√≥n [h 300 mm],    !- Name
+    Losa alveolar con capa de compresiÛn [h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     1.579,                    !- Conductivity
@@ -3787,7 +3787,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar con capa de compresi√≥n [h 350 mm],    !- Name
+    Losa alveolar con capa de compresiÛn [h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.667,                    !- Conductivity
@@ -3798,7 +3798,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar con capa de compresi√≥n [h 400 mm],    !- Name
+    Losa alveolar con capa de compresiÛn [h 400 mm],    !- Name
     Rough,                    !- Roughness
     0.4,                      !- Thickness
     1.818,                    !- Conductivity
@@ -3809,7 +3809,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa alveolar con capa de compresi√≥n [h 500 mm],    !- Name
+    Losa alveolar con capa de compresiÛn [h 500 mm],    !- Name
     Rough,                    !- Roughness
     0.5,                      !- Thickness
     2.0,                      !- Conductivity
@@ -3820,7 +3820,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2500 / h 200 mm],    !- Name
+    Losa maciza de hormigÛn [d 2500 / h 200 mm],    !- Name
     Rough,                    !- Roughness
     0.2,                      !- Thickness
     2.5,                      !- Conductivity
@@ -3831,7 +3831,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2500 / h 250 mm],    !- Name
+    Losa maciza de hormigÛn [d 2500 / h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     2.5,                      !- Conductivity
@@ -3842,7 +3842,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2500 / h 300 mm],    !- Name
+    Losa maciza de hormigÛn [d 2500 / h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     2.5,                      !- Conductivity
@@ -3853,7 +3853,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2500 / h 350 mm],    !- Name
+    Losa maciza de hormigÛn [d 2500 / h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     2.5,                      !- Conductivity
@@ -3864,7 +3864,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2500 / h 400 mm],    !- Name
+    Losa maciza de hormigÛn [d 2500 / h 400 mm],    !- Name
     Rough,                    !- Roughness
     0.4,                      !- Thickness
     2.5,                      !- Conductivity
@@ -3875,7 +3875,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2500 / h 500 mm],    !- Name
+    Losa maciza de hormigÛn [d 2500 / h 500 mm],    !- Name
     Rough,                    !- Roughness
     0.5,                      !- Thickness
     2.5,                      !- Conductivity
@@ -3886,7 +3886,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2000 / h 200 mm],    !- Name
+    Losa maciza de hormigÛn [d 2000 / h 200 mm],    !- Name
     Rough,                    !- Roughness
     0.2,                      !- Thickness
     1.667,                    !- Conductivity
@@ -3897,7 +3897,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2000 / h 250 mm],    !- Name
+    Losa maciza de hormigÛn [d 2000 / h 250 mm],    !- Name
     Rough,                    !- Roughness
     0.25,                     !- Thickness
     1.667,                    !- Conductivity
@@ -3908,7 +3908,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2000 / h 300 mm],    !- Name
+    Losa maciza de hormigÛn [d 2000 / h 300 mm],    !- Name
     Rough,                    !- Roughness
     0.3,                      !- Thickness
     1.667,                    !- Conductivity
@@ -3919,7 +3919,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2000 / h 350 mm],    !- Name
+    Losa maciza de hormigÛn [d 2000 / h 350 mm],    !- Name
     Rough,                    !- Roughness
     0.35,                     !- Thickness
     1.667,                    !- Conductivity
@@ -3930,7 +3930,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2000 / h 400 mm],    !- Name
+    Losa maciza de hormigÛn [d 2000 / h 400 mm],    !- Name
     Rough,                    !- Roughness
     0.4,                      !- Thickness
     1.667,                    !- Conductivity
@@ -3941,7 +3941,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    Losa maciza de hormig√≥n [d 2000 / h 500 mm],    !- Name
+    Losa maciza de hormigÛn [d 2000 / h 500 mm],    !- Name
     Rough,                    !- Roughness
     0.5,                      !- Thickness
     1.667,                    !- Conductivity
@@ -3952,7 +3952,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU entrevigado cer√°mico [h 210 mm],    !- Name
+    FU entrevigado cer·mico [h 210 mm],    !- Name
     Rough,                    !- Roughness
     0.21,                     !- Thickness
     0.84,                     !- Conductivity
@@ -3963,7 +3963,7 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL,                 
-    FU con viguetas de madera con entrevigado de revolt√≥n de ladrillo y cascote [h > 120 mm],    !- Name
+    FU con viguetas de madera con entrevigado de revoltÛn de ladrillo y cascote [h > 120 mm],    !- Name
     Rough,                    !- Roughness
     0.31,                     !- Thickness
     1.335,                    !- Conductivity
@@ -4062,79 +4062,79 @@ MATERIAL,
     0.6;                      !- Visible Absorptance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire sin ventilar horizontal [e 1 cm],    !- Name
+    C·mara de aire sin ventilar horizontal [e 1 cm],    !- Name
     0.15;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire sin ventilar horizontal [e 2 cm],    !- Name
+    C·mara de aire sin ventilar horizontal [e 2 cm],    !- Name
     0.16;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire sin ventilar horizontal [e 5 cm],    !- Name
+    C·mara de aire sin ventilar horizontal [e 5 cm],    !- Name
     0.16;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire sin ventilar horizontal [e 10 cm],    !- Name
+    C·mara de aire sin ventilar horizontal [e 10 cm],    !- Name
     0.18;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire sin ventilar vertical [e 1 cm],    !- Name
+    C·mara de aire sin ventilar vertical [e 1 cm],    !- Name
     0.15;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire sin ventilar vertical [e 2 cm],    !- Name
+    C·mara de aire sin ventilar vertical [e 2 cm],    !- Name
     0.17;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire sin ventilar vertical [e 5 cm],    !- Name
+    C·mara de aire sin ventilar vertical [e 5 cm],    !- Name
     0.18;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire sin ventilar vertical [e 10 cm],    !- Name
+    C·mara de aire sin ventilar vertical [e 10 cm],    !- Name
     0.19;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ligeramente ventilada horizontal [e 1 cm],    !- Name
+    C·mara de aire ligeramente ventilada horizontal [e 1 cm],    !- Name
     0.075;                    !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ligeramente ventilada horizontal [e 2 cm],    !- Name
+    C·mara de aire ligeramente ventilada horizontal [e 2 cm],    !- Name
     0.08;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ligeramente ventilada horizontal [e 5 cm],    !- Name
+    C·mara de aire ligeramente ventilada horizontal [e 5 cm],    !- Name
     0.08;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ligeramente ventilada horizontal [e 10 cm],    !- Name
+    C·mara de aire ligeramente ventilada horizontal [e 10 cm],    !- Name
     0.09;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ligeramente ventilada vertical [e 1 cm],    !- Name
+    C·mara de aire ligeramente ventilada vertical [e 1 cm],    !- Name
     0.075;                    !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ligeramente ventilada vertical [e 2 cm],    !- Name
+    C·mara de aire ligeramente ventilada vertical [e 2 cm],    !- Name
     0.085;                    !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ligeramente ventilada vertical [e 5 cm],    !- Name
+    C·mara de aire ligeramente ventilada vertical [e 5 cm],    !- Name
     0.09;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ligeramente ventilada vertical [e 10 cm],    !- Name
+    C·mara de aire ligeramente ventilada vertical [e 10 cm],    !- Name
     0.095;                    !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ventilada y flujo ascendente,    !- Name
+    C·mara de aire ventilada y flujo ascendente,    !- Name
     0.06;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ventilada y flujo descendente,    !- Name
+    C·mara de aire ventilada y flujo descendente,    !- Name
     0.13;                     !- Thermal Resistance
 
 MATERIAL:AIRGAP,          
-    C√°mara de aire ventilada y flujo horizontal,    !- Name
+    C·mara de aire ventilada y flujo horizontal,    !- Name
     0.09;                     !- Thermal Resistance
 
 WINDOWMATERIAL:SIMPLEGLAZINGSYSTEM,
@@ -4410,7 +4410,7 @@ WINDOWMATERIAL:SHADE,
     0.7;                      !- Airflow Permeability
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco met√°lico [H 80 mm],    !- Name
+    Marco met·lico [H 80 mm],    !- Name
     0.08,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4437,7 +4437,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco met√°lico [H 80 mm] con RPT [4 < d < 12 mm],    !- Name
+    Marco met·lico [H 80 mm] con RPT [4 < d < 12 mm],    !- Name
     0.08,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4464,7 +4464,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco met√°lico [H 80 mm] con RPT [d > 12 mm],    !- Name
+    Marco met·lico [H 80 mm] con RPT [d > 12 mm],    !- Name
     0.08,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4545,7 +4545,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco de PVC [H 80 mm] (dos c√°maras),    !- Name
+    Marco de PVC [H 80 mm] (dos c·maras),    !- Name
     0.08,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4572,7 +4572,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco de PVC [H 80 mm] (tres c√°maras),    !- Name
+    Marco de PVC [H 80 mm] (tres c·maras),    !- Name
     0.08,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4599,7 +4599,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco met√°lico [H 100 mm],    !- Name
+    Marco met·lico [H 100 mm],    !- Name
     0.1,                      !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4626,7 +4626,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco met√°lico [H 100 mm] con RPT [4 < d < 12 mm],    !- Name
+    Marco met·lico [H 100 mm] con RPT [4 < d < 12 mm],    !- Name
     0.1,                      !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4653,7 +4653,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco met√°lico [H 100 mm] con RPT [d > 12 mm],    !- Name
+    Marco met·lico [H 100 mm] con RPT [d > 12 mm],    !- Name
     0.1,                      !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4734,7 +4734,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco de PVC [H 100 mm] (dos c√°maras),    !- Name
+    Marco de PVC [H 100 mm] (dos c·maras),    !- Name
     0.1,                      !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4761,7 +4761,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco de PVC [H 100 mm] (tres c√°maras),    !- Name
+    Marco de PVC [H 100 mm] (tres c·maras),    !- Name
     0.1,                      !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4788,7 +4788,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco met√°lico [H 120 mm],    !- Name
+    Marco met·lico [H 120 mm],    !- Name
     0.12,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4815,7 +4815,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco met√°lico [H 120 mm] con RPT [4 < d < 12 mm],    !- Name
+    Marco met·lico [H 120 mm] con RPT [4 < d < 12 mm],    !- Name
     0.12,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4842,7 +4842,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco met√°lico [H 120 mm] con RPT [d > 12 mm],    !- Name
+    Marco met·lico [H 120 mm] con RPT [d > 12 mm],    !- Name
     0.12,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4923,7 +4923,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco de PVC [H 120 mm] (dos c√°maras),    !- Name
+    Marco de PVC [H 120 mm] (dos c·maras),    !- Name
     0.12,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
@@ -4950,7 +4950,7 @@ WINDOWPROPERTY:FRAMEANDDIVIDER,
     0.6;                      !- Inside Reveal Solar Absorptance
 
 WINDOWPROPERTY:FRAMEANDDIVIDER,
-    Marco de PVC [H 120 mm] (tres c√°maras),    !- Name
+    Marco de PVC [H 120 mm] (tres c·maras),    !- Name
     0.12,                     !- Frame Width
     0.01,                     !- Frame Outside Projection
     0.01,                     !- Frame Inside Projection
