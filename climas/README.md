@@ -15,6 +15,6 @@ archivos MET originales.
 
 [1] http://www.energy.soton.ac.uk/files/2013/06/technical_reference.pdf
 
-Madrid, septiembre de 2015
+Madrid, 19 de enero de 2016
 
 Rafael Villar Burke
