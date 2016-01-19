@@ -1,6 +1,6 @@
 ! DesignDays generated from EPW data
 ! The coldest/warmest design day is used as representative of each winter/summer zone
-! Rafael Villar Burke, 26/November/2015
+! Rafael Villar Burke, 19/January/2016
 
 Site:Location, A3_peninsula,     ! Name
   40.6800,      ! Latitude {N+ S-}

@@ -10,6 +10,6 @@ Estos días de diseño no responden a exigencias normativas se suministran únic
 trabajo de simulación energética al permitir el autodimensionado sistemas. El proyectista debe decidir, en todo caso
 el criterio de dimensionado elegido.
 
-Madrid, 26/11/2015
+Madrid, 19/01/2016
 
 Rafael Villar Burke
