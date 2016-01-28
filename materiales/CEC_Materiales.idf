@@ -1548,7 +1548,7 @@ MATERIAL,
     0.02,                     !- Thickness
     0.148,                    !- Conductivity
     537.5,                    !- Density
-    -1.0,                     !- Specific Heat
+    1000.0,                     !- Specific Heat
     0.6,                      !- Thermal Absorptance
     0.6,                      !- Solar Absorptance
     0.6;                      !- Visible Absorptance
