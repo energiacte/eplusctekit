@@ -1,6 +1,13 @@
 CHANGES
 =======
 
+1.2   2023-09-18
+----------------
+* Añade climas de Ceuta y Melilla e Illes Balears (mismos datos que península pero con cambio de latitud/longitud)
+  - B3_balears / C3_balears (datos de Palma)
+  - A3_ceutamelilla (datos de Melilla)
+  - B3_ceutamelilla (datos de Ceuta)
+
 1.1   2015-09-17
 ----------------
 * Cambio de las absortividades solar y visible a 0.6 en lugar de 0.9/0.93
